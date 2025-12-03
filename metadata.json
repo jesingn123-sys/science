@@ -1,0 +1,7 @@
+{
+  "name": "VibeCheck - Gen Z School Attendance",
+  "description": "The ultimate aesthetic school attendance tracker. Scan iCards, track the class, and spot who is bunking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
